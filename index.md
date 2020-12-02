@@ -1,3 +1,0 @@
-# Brian Mearns
-
-## Hello
